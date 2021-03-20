@@ -1,0 +1,4 @@
+#!/bin/bash
+
+npm ci
+# That's it, really. We do not have any git modules yet.
